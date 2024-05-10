@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_genre">Genre</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_back">Back</string>
+    <string name="music_share">MusicApp</string>
+    <string name="share_message">Dengarkan Musikmu di MusicApp Sekarang!</string>
+</resources>
